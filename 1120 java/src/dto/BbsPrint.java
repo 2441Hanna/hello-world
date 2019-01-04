@@ -7,5 +7,7 @@ public class BbsPrint {
 		System.out.println(bbs.getTitle());
 		System.out.println(bbs.getContent());
 		System.out.println(bbs.getDate());
+		
+		
 	}
 }
