@@ -1,7 +1,7 @@
 package jframeTest;
 
 public class ApplePhone implements Phone {
-
+  
 	@Override
 	public void call() {
 		// TODO Auto-generated method stub
